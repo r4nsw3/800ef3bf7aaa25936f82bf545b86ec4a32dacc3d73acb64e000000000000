@@ -1,0 +1,237 @@
+                                     .
+ ________.         ________          :__________            karl*    _____\___.
+_\       |________/       /_________ |        _/________\________   /     \\  |
+_\\      |       /      _/_\ _      \|       /     _     \       \ //      \\ |
+|\\      |     _//     ___/_\\     \ \      //     |     _\     \ \/ /     _\\|
+| \\     :      /      |      \     \     _//      :      \\     \  /|      \\_
+|__\\__________/_______________\____|\_____/_______________\_____|\/ |_______\
+ <:-\-------------------------------------/--------------------------:------:-
+  .                                                                  .      |
+  |     P r o u d l y   P r e s e n t s                                     |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |       Title : Trials Rising Standard Edition (Update v1.0.9)            |
+  |                                                                         |
+  |   Publisher : Ubisoft                     Platform : Nintendo Switch    |
+  |   Developer : Ubisoft                       Origin : eShop              |
+  |       Genre : Racing / Platformer         Title ID : 01003E800A102800   |
+  :        Date : December 2019                 Format : 71x50MB / NSP      |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     R e l e a s e   N o t e s                                           |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |   Explore over-the-top action and physics-bending motorcycle racing     |
+  |   in the latest entry in the Trials franchise. With over 125 new        |
+  |   tracks, Trials Rising is easy to pick up and play, challenging to     |
+  |   master, and offers the best multiplayer racing experience ever.       |
+  |                                                                         |
+  |   Experience the most challenging tracks around the world - from the    |
+  |   Great Wall of China to the Eiffel Tower.                              |
+  |                                                                         |
+  |   Test your friendships with the new Tandem mode that allows two        |
+  |   players to control one bike. Hilarity is guaranteed!                  |
+  |                                                                         |
+  |   Create and share unique levels in Track Central with over 8,000       |
+  |   items available. The fun and possibilities are endless!               |
+  |                                                                         |
+  |   From your local backyard to worldwide stadiums, defeat all your       |
+  |   opponents online and rise to glory.                                   |
+  |                                                                         |
+  |   Languages: English, French, Italian, German, Spanish, Dutch,          |
+  |   Russian, Japanese, Korean and Chinese.                                |
+  |                                                                         |
+  |   Update Notes: v1.0.9 (v589824). Firmware 9.0.1 and master key 6.2     |
+  |   are required.                                                         |
+  |                                                                         |
+  |   * STABILITY                                                           |
+  |                                                                         |
+  |   * [All Platforms] Squashed a bug that could cause a crash if a UGC    |
+  |     track is loaded before the thumbnail downloads on Track Central     |
+  |                                                                         |
+  |   * [Switch] Squashed a bug that could cause the frame rate to          |
+  |     decrease over time during longer sessions                           |
+  |                                                                         |
+  |   * UI                                                                  |
+  |                                                                         |
+  |   * [All Platforms] Split times are now visible when playing Track      |
+  |     Central tracks                                                      |
+  |                                                                         |
+  |   * [All Platforms] Various localization & text spill fixes             |
+  |                                                                         |
+  |   * [All Platforms] Fixed poses & animations that were missing on       |
+  |     some platforms                                                      |
+  |                                                                         |
+  |   * [All Platforms] Fixed a redirection issue after purchasing the      |
+  |     Turtle or Alpaca bikes                                              |
+  |                                                                         |
+  |   * [All Platforms] Fixed incorrect thumbnails for Alpaca frames in     |
+  |     Bike Store                                                          |
+  |                                                                         |
+  |   * [All Platforms] Fix for missing parts for Fun Bikes in the Bike     |
+  |     Store                                                               |
+  |                                                                         |
+  |   * [All Platforms] Fixed several customization items that had the      |
+  |     incorrect rarity icon                                               |
+  |                                                                         |
+  |   * [All Platforms] Added/fixed filters related to expansion pack       |
+  |     tracks in Private MP & Party Mode                                   |
+  |                                                                         |
+  |   * [All Platforms] Fixed various incorrect or misaligned thumbnails    |
+  |     in the Bike & Rider Stores                                          |
+  |                                                                         |
+  |   * [All Platforms] Squashed a bug that could display incorrect         |
+  |     search filters after re-entering the search menu in Track Central   |
+  |                                                                         |
+  |   * [All Platforms] Fixed a bug that could cut off Skill Game           |
+  |     instructions during a race if they are over 160 characters          |
+  |                                                                         |
+  |   * [All Platforms] Fixed a bug that centered and cut off track names   |
+  |     on Track Central tiles if they are too long to fit in the tile      |
+  |                                                                         |
+  |   * [All Platforms] Squashed a bug that could show a new sticker        |
+  |     notification when no new stickers are available                     |
+  |                                                                         |
+  |   * [All Platforms] Fixed an issue that could display incorrect         |
+  |     values on the result screen of custom skill games if they use a     |
+  |     data source for the primary score                                   |
+  |                                                                         |
+  |   * [All Platforms] Fixed missing UGC track poster in bike selection    |
+  |     screen of Party Mode                                                |
+  |                                                                         |
+  |   * [All Platforms] Fixed various camera clipping issues in the Rider   |
+  |     & Bike Stores                                                       |
+  |                                                                         |
+  |   * [All Platforms] Season 2 headlights are now visible for all         |
+  |     compatible bikes in the Bike Store                                  |
+  |                                                                         |
+  |   * [All Platforms] Squashed a bug that could display incorrect time    |
+  |     information in the Activity Feed                                    |
+  |                                                                         |
+  |   * [All Platforms] Euro Semi Pro: Highland Fling menu was not          |
+  |     displaying all tracks in that league                                |
+  |                                                                         |
+  |   * [Switch] Fixed empty Shopping Cart frame tab in Bike Store          |
+  |                                                                         |
+  |   * [Switch] Squashed a bug that caused players to enter search terms   |
+  |     twice when using the search option in Party Mode                    |
+  |                                                                         |
+  |   * [Switch] Fixed various incorrect line breaks in text in the Track   |
+  |     Editor                                                              |
+  |                                                                         |
+  |   * EDITOR                                                              |
+  |                                                                         |
+  |   * [All Platforms] The date a track was last saved will now be         |
+  |     visible when loading/saving/managing custom track files             |
+  |                                                                         |
+  |   * [All Platforms] Fixed incorrect default medal times                 |
+  |                                                                         |
+  |   * [All Platforms] Squashed a bug that caused the emitter tool to      |
+  |     initially emit too many objects                                     |
+  |                                                                         |
+  |   * [All Platforms] Fixed an issue that prevented the emitter tool      |
+  |     from emitting glued groups of objects                               |
+  |                                                                         |
+  |   * [All Platforms] Fixed a bug that allowed players to skip            |
+  |     checkpoints when playing the track during the sharing process       |
+  |                                                                         |
+  |   * [All Platforms] Squashed a bug that could cause editor controls     |
+  |     and UI to be temporarily disabled after returning from test mode    |
+  |                                                                         |
+  |   * [All Platforms] Fixed a bug that caused UI to disappear if the      |
+  |     player pressed R3 while in the object selection menu                |
+  |                                                                         |
+  |   * [All Platforms] Randomize Color option has been fixed for a         |
+  |     variety of objects                                                  |
+  |                                                                         |
+  |   * [All Platforms] Fusion Finish gate & Finish Gate Base objects       |
+  |     were not casting shadows                                            |
+  |                                                                         |
+  |   * TRACKS                                                              |
+  |                                                                         |
+  |   * [All Platforms] Fixed some missing collisions on Amazon Warrior     |
+  |                                                                         |
+  |   * [All Platforms] Access to some Fun Bikes removed from some tracks   |
+  |     that were found to be impossible to pass                            |
+  |                                                                         |
+  |   * [All Platforms] Fixed an issue that could cause physics objects     |
+  |     to not activate when playing a track after viewing a replay         |
+  |                                                                         |
+  |   * [Switch] Fixed an abrupt change in environment settings on          |
+  |     Sustainable Mining                                                  |
+  |                                                                         |
+  |   * STORE                                                               |
+  |                                                                         |
+  |   * [All Platforms] Fixed an issue that could prevent all items from    |
+  |     being awarded when purchasing a bundle                              |
+  |                                                                         |
+  |   * [All Platforms] Fixed an issue that could cause players to lose     |
+  |     Acorns if online connection was lost while purchasing a bike        |
+  |                                                                         |
+  |   * CUSTOMIZATION                                                       |
+  |                                                                         |
+  |   * [All Platforms] Fixed clipping & distortion issues with various     |
+  |     customization items                                                 |
+  |                                                                         |
+  |   * ACHIEVEMENTS/TROPHIES                                               |
+  |                                                                         |
+  |   * [All Platforms] Platinum medals earned on Stadium Finals are now    |
+  |     counted towards Platinum Deposit Achievement/Trophy                 |
+  |                                                                         |
+  |   * GRAPHICS                                                            |
+  |                                                                         |
+  |   * [All Platforms] Dirt decals were not displaying properly on the     |
+  |     left side wheels of the Crawler                                     |
+  |                                                                         |
+  |   * ONLINE                                                              |
+  |                                                                         |
+  |   * [Switch] Squashed a bug that could prevent players from             |
+  |     connecting to multiplayer after returning from rest/sleep mode      |
+  |                                                                         |
+  |   * [Switch] Fixed players getting an "Account not linked" pop-up       |
+  |     after connecting account to Ubisoft Club                            |
+  |                                                                         |
+  |   * [Switch] Fixed an issue that required players to reboot the game    |
+  |     after purchasing acorns to use them                                 |
+  |                                                                         |
+  |   * TRACK CENTRAL                                                       |
+  |                                                                         |
+  |   * [All Platforms] 50 track limit removed from Favorites feed          |
+  |                                                                         |
+  |   * [All Platforms] Already played tracks will not appear on the main   |
+  |     page of Track Central                                               |
+  |                                                                         |
+  |   * MISC                                                                |
+  |                                                                         |
+  |   * [All Platforms] Squashed a bug that allowed the player to grab      |
+  |     the surface of water planes during gameplay as if it were a solid   |
+  |     object                                                              |
+  |                                                                         |
+  |   * UBISOFT CLUB                                                        |
+  |                                                                         |
+  |   * [All Platforms] Fixed missing localizations for Weekly Challenges   |
+  |                                                                         |
+  |   * [All Platforms] Fixed incorrect time remaining counter on Weekly    |
+  |     Challenges                                                          |
+  |                                                                         |
+  |   * [Switch] Fixed an issue that could prevent players from redeeming   |
+  |     Ubisoft Club rewards when accessed via the in-game store            |
+  |                                                                         |
+  |   * [Switch] Fixed missing Turbo Pipe image                             |
+  :                                                                         |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     G r e e t i n g s                                                   |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |            Abstrakt . Anthrox . Capital . Caravan . Complex             |
+  |    Dual Crew Shining . Duplex . Echelon . Eurasia . Kalisto . Legacy    |
+  |    Lightforce . Menace . Miracle . Mode 7 . Money . Mystic . Napalm     |
+  |    Nightfall . Oldskool . Paradox . Premiere . Project X . Protocol     |
+  |      Quartex . Quasar . Rising Sun . Scoopex . Sneakers . Triforce      |
+  |                                                                         |
+ -:-------------------------------------------------------------------------:>
+  |                                                                         |
+  .                   VENOM - Always rising! Since 2001.                    .
